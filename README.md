@@ -1,19 +1,19 @@
 
 <h1 align="center"><b>Hi , I'm Mehrnaz Bastani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm a **Statistics and Data Science** student at **UCLA** with minors in **Public Health** and **Digital Humanities**, passionate about applying AI and analytics to solve real-world challenges. Currently, I'm building **AI agents** and **metadata systems** at **NBCUniversal**, helping improve knowledge access and governance across large-scale media operations. I’m also deepening my machine learning expertise through **Cornell's ML Foundations** program, tackling real-world projects like **NLP**, **dashboarding**, and **civic tech**. My goal is to design **equitable**, **high-impact technologies** in **healthcare**, **education**, and **media** by blending data, storytelling, and purpose. I’m always learning how to turn complex systems into actionable, **human-centered solutions**.
+I'm a **Statistics and Data Science** student at **UCLA** with minors in **Public Health** and **Digital Humanities**, passionate about applying AI and analytics to solve real-world challenges. Currently, I'm building AI agents and metadata systems at NBCUniversal, helping improve knowledge access and governance across large-scale media operations. I’m also deepening my machine learning expertise through Cornell's ML Foundations program, tackling real-world projects like NLP, dashboarding, and civic tech. My goal is to design equitable, high-impact technologies in healthcare, education, and media by blending data, storytelling, and purpose. I’m always learning how to turn complex systems into actionable, human-centered solutions.
 
 ---
 
 ### 🚀 **Projects**
 
-- **[Break Through Tech AI Program](#)**: A year-long extracurricular experience at Cornell Tech. This program helps students develop technical skills in Machine Learning and Deep Learning, preparing them for the fastest-growing areas in data science, AI, and ML. The program is divided into two sections:
+- **[Break Through Tech AI Program](https://github.com/mehrnazbastani/Break-Through-Tech-AI-Program)**: A year-long extracurricular experience at Cornell Tech. This program helps students develop technical skills in Machine Learning and Deep Learning, preparing them for the fastest-growing areas in data science, AI, and ML. The program is divided into two sections:
     - **Machine Learning Foundation**: I learned about the modeling lifecycle, machine learning algorithms, neural networks, computer vision, and natural language processing through quizzes, coding assignments, and hands-on labs.
     - **AI Studio**: In Fall 2025, I’ll work with an industry partner to solve real-world business challenges using AI solutions. 
--  **[Educational Disparities Website](#)**: Designed to raise awareness about education inequality, featuring data-driven insights and interactive visualizations.
-- **[NBA Games Outcome Prediction](#)**: Built a predictive model using historical NBA data to forecast game outcomes based on player stats and team performance.
+- **[NBA Games Outcome Prediction](https://github.com/mehrnazbastani/Predicting_NBA_Games)**: Built a predictive model using historical NBA data to forecast game outcomes based on player stats and team performance.
 - **[American Statistical Association DataFest](#)**: Analyzed a large, anonymized dataset from **CourseKata**, uncovering insights to help educators improve student outcomes in introductory statistics and data science courses
 - **[Wildfire Support](#)**: Developed a web-based platform aimed at improving community response and resource allocation during wildfire events.
+- **[Educational Disparities Website](#)**: Designed to raise awareness about education inequality, featuring data-driven insights and interactive visualizations.
 
 ---
 
