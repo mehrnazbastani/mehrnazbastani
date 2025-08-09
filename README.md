@@ -11,9 +11,9 @@ I'm a **Statistics and Data Science** student at **UCLA** with minors in **Publi
     - **Machine Learning Foundation**: I learned about the modeling lifecycle, machine learning algorithms, neural networks, computer vision, and natural language processing through quizzes, coding assignments, and hands-on labs.
     - **AI Studio**: In Fall 2025, I’ll work with an industry partner to solve real-world business challenges using AI solutions. 
 - **[NBA Games Outcome Prediction](https://github.com/mehrnazbastani/Predicting_NBA_Games)**: Built a predictive model using historical NBA data to forecast game outcomes based on player stats and team performance.
+-  **[Educational Disparities Website](https://github.com/mehrnazbastani/Educational-Disparities-Website)**: Designed to raise awareness about education inequality, featuring data-driven insights and interactive visualizations with Tableau
 - **[American Statistical Association DataFest](#)**: Analyzed a large, anonymized dataset from **CourseKata**, uncovering insights to help educators improve student outcomes in introductory statistics and data science courses
 - **[Wildfire Support](#)**: Developed a web-based platform aimed at improving community response and resource allocation during wildfire events.
-- **[Educational Disparities Website](#)**: Designed to raise awareness about education inequality, featuring data-driven insights and interactive visualizations.
 - **[Essay Echo](#)**:
 - **[Develop for Good](#)**
 
