@@ -14,6 +14,7 @@ I'm a **Statistics and Data Science** student at **UCLA** with minors in **Publi
 - **[American Statistical Association DataFest](#)**: Analyzed a large, anonymized dataset from **CourseKata**, uncovering insights to help educators improve student outcomes in introductory statistics and data science courses
 - **[Wildfire Support](#)**: Developed a web-based platform aimed at improving community response and resource allocation during wildfire events.
 - **[Educational Disparities Website](#)**: Designed to raise awareness about education inequality, featuring data-driven insights and interactive visualizations.
+- **[Essay Echo](#)**:
 
 ---
 
