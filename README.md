@@ -7,7 +7,7 @@ I'm a **Statistics and Data Science** student at **UCLA** with minors in **Publi
 
 ### 🚀 **Projects**
 
-- **[Break Through Tech AI Program]**: A year-long extracurricular experience at Cornell Tech. This program helps students develop technical skills in Machine Learning and Deep Learning, preparing them for the fastest-growing areas in data science, AI, and ML. The program is divided into two sections:
+- **Break Through Tech AI Program**: A year-long extracurricular experience at Cornell Tech. This program helps students develop technical skills in Machine Learning and Deep Learning, preparing them for the fastest-growing areas in data science, AI, and ML. The program is divided into two sections:
     - **[Machine Learning Foundation](https://github.com/mehrnazbastani/Break-Through-Tech-AI-Program)**: I learned about the modeling lifecycle, machine learning algorithms, neural networks, computer vision, and natural language processing through quizzes, coding assignments, and hands-on labs.
     - **[AI Studio](https://github.com/mehrnazbastani/cadence1b)**: In Fall 2025, I’ll work with an industry partner to solve real-world business challenges using AI solutions. This project is for Cadence Design Systems and it is a AI-Assisted Recruitment using NLP and transformer models to match resumes with job listings and generate recruiter insights, improving fairness and efficiency in hiring.
 - **[NBA Games Outcome Prediction](https://github.com/mehrnazbastani/Predicting_NBA_Games)**: Built a predictive model using historical NBA data to forecast game outcomes based on player stats and team performance
